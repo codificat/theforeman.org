@@ -40,7 +40,7 @@ Keycloak.
 
 # Preparation
 
-This exaple builds upon some pre-requisites:
+This example builds upon some pre-requisites:
 
 -   A working installation of [Foreman](https://theforeman.org/) at `https://foreman.example.com`. Foreman is
     our SAML service provider. This example was developed with Foreman 1.17
