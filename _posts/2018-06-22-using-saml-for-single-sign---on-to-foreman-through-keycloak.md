@@ -27,7 +27,7 @@ External sources of authentication also include LDAP and Active Directory.
 
 However, there is no official support yet for Single Sign-On (SSO) using
 SAML. An [enhancement request](http://projects.theforeman.org/issues/16916)
-exists for SALM authentication support in Foreman.  While the official support
+exists for SAML authentication support in Foreman.  While the official support
 gets implemented, here we're going to explain how to use the delegation
 mechanism to configure Single Sign-On (SSO) via Apache's `mod_auth_mellon` to
 provide SAML-based authentication.
